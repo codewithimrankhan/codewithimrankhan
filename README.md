@@ -1,8 +1,9 @@
 ## Hi, I'm Imran Khan 👋
 [<img src='https://github.com/codewithimrankhan/codewithimrankhan/blob/main/img/bg.jpg?raw=true' alt='Imran Khan'>](https://github.com/codewithimrankhan/)
 <p>
-👨‍💻 I'm High Converting Landing Page Designer & Sales Funnel Expert <br> 
-⚡ WP, CF & Unbounce Expert <br>
+👨‍💻 WordPress & WooCommerce Developer<br> 
+⚡ High Converting Landing Page Designer & Sales Funnel Expert <br>
+ ⚡ GHL, CF & Unbounce Expert
 ⭐ Tips, Tricks & Resources <br>
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge <br>
