@@ -1,4 +1,4 @@
-## Hi, I'm Imran Khan 👋
+## Hi, I'm Imran Khan [<img src='https://github.com/codewithimrankhan/codewithimrankhan/blob/main/img/hello.gif?raw=true' alt='Imran Khan'>](https://github.com/codewithimrankhan/)
 [<img src='https://github.com/codewithimrankhan/codewithimrankhan/blob/main/img/bg.jpg?raw=true' alt='Imran Khan'>](https://github.com/codewithimrankhan/)
 <p>
 👨‍💻 WordPress & WooCommerce Developer<br> 
