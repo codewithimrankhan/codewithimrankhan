@@ -3,7 +3,7 @@
 <p>
 👨‍💻 WordPress & WooCommerce Developer<br> 
 ⚡ High Converting Landing Page Designer & Sales Funnel Expert <br>
- ⚡ GHL, CF & Unbounce Expert
+ ⚡ GHL, CF & Unbounce Expert<br>
 ⭐ Tips, Tricks & Resources <br>
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge <br>
