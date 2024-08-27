@@ -10,7 +10,7 @@
 
 
 ### 🚀 About Me
-Experienced WordPress Developer & WooCommerce Developer with a demonstrated history of working in the IT industry. I am a highly experienced High Converting Landing Page Designer & Sales Funnel Expert with Landing Page building tools and am familiar with Unbounce, Instapage, Leadpages, Clickfunnels, GoHighLevel, Wix & WordPress etc. I'm passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.
+Experienced High Converting Landing Page Designer & WordPress Developer with a demonstrated history of working in the IT industry. I am a highly experienced High Converting Landing Page Designer & Sales Funnel Expert with Landing Page building tools and am familiar with Unbounce, Instapage, Leadpages, Clickfunnels, GoHighLevel, Wix & WordPress etc. I'm passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.
 
 #### 📚 Language, Frameworks, Platforms and Libraries
 
