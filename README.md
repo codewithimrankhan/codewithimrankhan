@@ -8,9 +8,33 @@
 🎤 Like to share my knowledge <br>
 👉 Open to collabs/projects </p> 
 
+Are you struggling with low conversion rates? Looking to boost profits and drive sales? Looking for a High Converting 📈 Landing Page Designer & Conversion Focused Sales Funnels Expert to increase your business Targeted Audiences/Conversions/Sales/Profit? 
 
-### 🚀 About Me
-Experienced High Converting Landing Page Designer & WordPress Developer with a demonstrated history of working in the IT industry. I am a highly experienced High Converting Landing Page Designer & Sales Funnel Expert with Landing Page building tools and am familiar with Unbounce, Instapage, Leadpages, Clickfunnels, GoHighLevel, Wix & WordPress etc. I'm passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.
+Whether you need captivating landing pages, seamless sales funnels, or fully optimized websites, I've got you covered. with expertise in Unbounce, ClickFunnels, GoHighLevel, WordPress, WIX, Webflow, Shopify, and Website Security, and provide Monthly Maintenance Services for your E-commerce Online Store. I'm here to help you to get the best results and make your dreams into reality.
+
+💼𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: An enthusiastic creative High Converting Landing Page Designer & Sales Funnel Expert. I'm an experienced Landing Page Specialist with a strong command of tools like Unbounce, Instapage, Leadpages, ClickFunnels, GoHighLevel and more. Additionally, I am an expert in building WordPress, WIX, Framer, Webflow, and Shopify websites. I ensure robust speed optimization, Website Security, Website Maintenance, creating custom functions, Design Workflow & Campaigns, and providing business Consulting on managing E-commerce online stores.
+
+☛ 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢?
+✅ Converting Figma Designs to Any Landing Page or WordPress/Shopify Builder
+✅ Unbounce, GHL, CF Landing Page Design
+✅ Email, Marketing Automation, Workflow, Campaign Setup
+✅ WordPress Landing Pages (Elementor Pro, Divi, WP Bakery, Oxygen Builder)
+✅ Shopify Landing Pages (Gempages, Pagefly)
+✅ Framer & Webflow Websites Design
+✅ E-commerce Website
+✅ Lead Magnet & Sales Funnels
+✅ Product Landing Pages
+✅ Product Page Optimization for Increased Sales
+✅ Payment gateway setup
+✅ Malware Remove/ Errors/ Bug Fix
+✅ Website maintenance & Improved WordPress Website Security.
+✅ Speed Optimization
+✅ Conversation Tracking with Google Analytics
+✅ CRO Audit & Strategy
+✅ CRO Monthly Reports
+✅ Weekly Growth Dashboards
+✅ Monthly New Variants for A/B Testing
+✅ CMS Integration (Klaviyo, ActiveCampaign, Aweber, GetResponse, MailChimp)
 
 #### 📚 Language, Frameworks, Platforms and Libraries
 
@@ -20,19 +44,6 @@ Experienced High Converting Landing Page Designer & WordPress Developer with a d
 #### Designing Tools Experience:
 
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](#) [![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#) [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](#) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
-
-
-#### 👨‍💻 Skills & Experiance: 
-✅ WordPress <br>
-✅ WooCommerce <br>
-✅ Unbounce <br> 
-✅ ClickFunnels <br> 
-✅ GoHighLevel <br> 
-✅ Troubleshooting <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithimrankhan&layout=compact)
